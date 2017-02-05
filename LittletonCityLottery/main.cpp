@@ -9,7 +9,7 @@
 #include <iostream>
 #include <ctime>
 #include <cstdlib>
-#include <cctype>>
+#include <cctype>
 
 using namespace std;
 
